@@ -34,12 +34,4 @@ public:
     ~triangle();
 };
 
-
-
-
-
-
-
-
-
 #endif /* ifndef SHAPES_H */
